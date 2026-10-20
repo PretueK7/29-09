@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: b5adf92ed1294264eba7215cd3289197
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2280659154067206932
+    second: ShadowDioWalking_0
+  - first:
+      213: 1608799285494181043
+    second: ShadowDioWalking_1
+  - first:
+      213: -6552883154824443035
+    second: ShadowDioWalking_2
+  - first:
+      213: -2329724300782584082
+    second: ShadowDioWalking_3
+  - first:
+      213: -6900063755918161187
+    second: ShadowDioWalking_4
+  - first:
+      213: -3455353223436302214
+    second: ShadowDioWalking_5
+  - first:
+      213: 2070560286594128184
+    second: ShadowDioWalking_6
+  - first:
+      213: 7969073797490865698
+    second: ShadowDioWalking_7
+  - first:
+      213: 5296595800513027607
+    second: ShadowDioWalking_8
+  - first:
+      213: 5022852871297582627
+    second: ShadowDioWalking_9
+  - first:
+      213: -7945149916509917832
+    second: ShadowDioWalking_10
+  - first:
+      213: 3924526468836738834
+    second: ShadowDioWalking_11
+  - first:
+      213: 3676969740908989501
+    second: ShadowDioWalking_12
+  - first:
+      213: -1111425649407672676
+    second: ShadowDioWalking_13
+  - first:
+      213: -1537301750033713722
+    second: ShadowDioWalking_14
+  - first:
+      213: -4449343332154638390
+    second: ShadowDioWalking_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShadowDioWalking_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecc41435987950e0800000000000000
+      internalID: -2280659154067206932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc68c62d6a935610800000000000000
+      internalID: 1608799285494181043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b4c064d7b7f05a0800000000000000
+      internalID: -6552883154824443035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee324387182bafd0800000000000000
+      internalID: -2329724300782584082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 7
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda43f4729c0e30a0800000000000000
+      internalID: -6900063755918161187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 9
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78049fec8e1c00d0800000000000000
+      internalID: -3455353223436302214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 9
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83959704c9b1cbc10800000000000000
+      internalID: 2070560286594128184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 9
+        width: 50
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226f0589566d79e60800000000000000
+      internalID: 7969073797490865698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 9
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e976861d9418940800000000000000
+      internalID: 5296595800513027607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_9
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 9
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3264eb00312c4b540800000000000000
+      internalID: 5022852871297582627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 9
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87da3330f382db190800000000000000
+      internalID: -7945149916509917832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_11
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 9
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217c1a6c708b67630800000000000000
+      internalID: 3924526468836738834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 9
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c8db87f78370330800000000000000
+      internalID: 3676969740908989501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_13
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 9
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e3ccca24c6390f0800000000000000
+      internalID: -1111425649407672676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_14
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 9
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c577ac04386aaae0800000000000000
+      internalID: -1537301750033713722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowDioWalking_15
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 9
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf7b2320d1c042c0800000000000000
+      internalID: -4449343332154638390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShadowDioWalking_0: -2280659154067206932
+      ShadowDioWalking_1: 1608799285494181043
+      ShadowDioWalking_10: -7945149916509917832
+      ShadowDioWalking_11: 3924526468836738834
+      ShadowDioWalking_12: 3676969740908989501
+      ShadowDioWalking_13: -1111425649407672676
+      ShadowDioWalking_14: -1537301750033713722
+      ShadowDioWalking_15: -4449343332154638390
+      ShadowDioWalking_2: -6552883154824443035
+      ShadowDioWalking_3: -2329724300782584082
+      ShadowDioWalking_4: -6900063755918161187
+      ShadowDioWalking_5: -3455353223436302214
+      ShadowDioWalking_6: 2070560286594128184
+      ShadowDioWalking_7: 7969073797490865698
+      ShadowDioWalking_8: 5296595800513027607
+      ShadowDioWalking_9: 5022852871297582627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
